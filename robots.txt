@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oscarscraft.com/sitemap.xml
